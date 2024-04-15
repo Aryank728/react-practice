@@ -19,6 +19,14 @@ function App() {
       department: "Testing",
       experience: "3 years",
     },
+    {
+      name: "Carol",
+      email: "carol@email.com",
+      role: "Project Manager",
+      gender: "Female",
+      department: "Management",
+      experience: "11 years",
+    },
   ];
 
   return (
