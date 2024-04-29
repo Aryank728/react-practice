@@ -58,6 +58,7 @@ function App() {
           experience={employee.experience}
         />
       ))}
+      <br />
       <button onClick={toggleNameCase}>Change Name Case Type</button>
     </div>
   );
